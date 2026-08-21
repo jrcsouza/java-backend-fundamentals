@@ -3,9 +3,7 @@ package com.github.jrcsouza.fundamentals.m01_fundamentals;
 import java.util.Scanner;
 
 public class Diferenca {
-
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
 
         int a = scanner.nextInt();
@@ -16,7 +14,6 @@ public class Diferenca {
         int diferenca = (a * b - c * d);
 
         System.out.println("DIFERENCA = " + diferenca);
-
-
+        scanner.close();
     }
 }

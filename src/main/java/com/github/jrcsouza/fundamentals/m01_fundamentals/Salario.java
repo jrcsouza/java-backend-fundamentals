@@ -4,9 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Salario {
-
     public static void main(String[] args) {
-
         Scanner scanner = new Scanner(System.in);
         scanner.useLocale(Locale.US);
 
@@ -18,9 +16,6 @@ public class Salario {
 
         System.out.println("NUMBER = " + numFuncionario);
         System.out.printf(Locale.US, "SALARY = U$ %.2f\n", salario);
-
         scanner.close();
-
-
     }
 }
