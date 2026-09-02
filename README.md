@@ -28,4 +28,5 @@ Repositório dedicado ao estudo aprofundado dos fundamentos de Java, lógica de 
 | 1019 | Conversão de Tempo | Formatação de Horas/Minutos | ✅ |
 | 1020 | Idade em Dias | Decomposição de Valores | ✅ |
 | 1021 | Notas e Moedas | Ponto Flutuante e Módulo | ✅ |
-| 1035 | Teste de Seleção 1 | Operadores Lógicos (`&&`) | ✅ |ivas | ✅ |
+| 1035 | Teste de Seleção 1 | Operadores Lógicos (`&&`) | ✅ |
+| 1037 | Tomada de Decisão e Cadeia 'if-else-if | ✅ |
