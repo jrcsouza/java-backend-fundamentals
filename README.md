@@ -29,4 +29,4 @@ Repositório dedicado ao estudo aprofundado dos fundamentos de Java, lógica de 
 | 1020 | Idade em Dias               | Decomposição de Valores                | ✅ |
 | 1021 | Notas e Moedas              | Ponto Flutuante e Módulo               | ✅ |
 | 1035 | Teste de Seleção 1          | Operadores Lógicos (`&&`)              | ✅ |
-| 1037 | Intervalo                   | Tomada de Decisão e Cadeia 'if-else-if | ✅ |
+| 1037 | Intervalo                   | Tomada de Decisão e Cadeia 'if-else-if' | ✅ |
