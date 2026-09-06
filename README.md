@@ -35,6 +35,7 @@ algorítmicos.
 | 1040      | Média 3                     | Condicionais encadeadas e regra de exame `if` aninhado |   ✅   |
 | 1041      | Coordenadas de um Ponto     | Mapeamento lógico de quadrantes `&&` e                 |   ✅   |
 | 1042      | Sort Simples                | Ordenação lógica manual `if-else`                      |   ✅   |
+| 1043      | Triângulo                   | Condições Matématicas, Formatação de Saída             |   ✅   |
 | 1046      | Tempo de Jogo               | Lógica de virada de dia (horas) `if-else`              |   ⏳   |
 | 1048      | Aumento de Salário          | Tabela de reajustes progressivos `else if`             |   ⏳   |
 | 1049      | Animal                      | Árvore de decisão textual `String.equals()`            |   ⏳   |
