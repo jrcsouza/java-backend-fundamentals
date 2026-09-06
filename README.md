@@ -37,6 +37,6 @@ algorítmicos.
 | 1042      | Sort Simples                | Ordenação lógica manual `if-else`                      |   ✅   |
 | 1043      | Triângulo                   | Condições Matématicas, Formatação de Saída             |   ✅   |
 | 1046      | Tempo de Jogo               | Lógica de virada de dia (horas) `if-else`              |   ✅   |
-| 1048      | Aumento de Salário          | Tabela de reajustes progressivos `else if`             |   ⏳   |
+| 1048      | Aumento de Salário          | Tabela de reajustes progressivos `else if`             |   ✅   |
 | 1049      | Animal                      | Árvore de decisão textual `String.equals()`            |   ⏳   |
 | 1051      | Imposto de Renda            | Cálculo por faixas progressivas `if-else-if`           |   ⏳   |
