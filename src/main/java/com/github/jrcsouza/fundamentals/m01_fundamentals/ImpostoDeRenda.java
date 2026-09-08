@@ -1,0 +1,29 @@
+package com.github.jrcsouza.fundamentals.m01_fundamentals;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class ImpostoDeRenda {
+    public static void main(String[] args) {
+        Locale.setDefault(Locale.US);
+        Scanner scanner = new Scanner(System.in);
+
+        double salario = scanner.nextDouble();
+        double imposto;
+
+        if (salario <= 2000.00) {
+            System.out.println("Isento");
+        } else if (salario <= 3000.00) {
+            imposto = (salario - 2000.00) * 0.08;
+            System.out.printf("R$ %.2f\n", imposto);
+        } else if (salario <= 4500.00) {
+            // R$ 80.00 é o imposto máximo da 2ª fatia (1000 * 8%)
+            imposto = 80.00 + ((salario - 3000.00) * 0.18);
+            System.out.printf("R$ %.2f\n", imposto);
+        } else {
+            imposto = 80.00 + 270.00 + ((salario - 4500.00) * 0.28);
+            System.out.printf("R$ %.2f\n", imposto);
+        }
+        scanner.close();
+    }
+}
