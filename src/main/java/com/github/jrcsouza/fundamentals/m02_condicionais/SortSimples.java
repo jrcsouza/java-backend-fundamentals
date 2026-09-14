@@ -1,4 +1,4 @@
-package com.github.jrcsouza.fundamentals.m01_fundamentals;
+package com.github.jrcsouza.fundamentals.m02_condicionais;
 
 import java.util.Scanner;
 
