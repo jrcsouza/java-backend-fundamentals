@@ -142,7 +142,7 @@ de banco de dados, frameworks, infraestrutura e arquitetura serão aprofundadas 
 
 | Exercício | Nome                     | Conceito Praticado                             | Status |
 |-----------|--------------------------|------------------------------------------------|--------|
-| 1067      | Números Ímpares          | `while`, contador e operador módulo (`%`)      | ⬜     |
+| 1067      | Números Ímpares          | `while`, contador e operador módulo (`%`)      | ✅     |
 | 1070      | Seis Números Ímpares     | Repetição e geração de sequência               | ⬜     |
 | 1114      | Senha Fixa               | `while` e condição de parada                   | ⬜     |
 | 1117      | Validação de Nota        | `while` com validação de entrada               | ⬜     |
