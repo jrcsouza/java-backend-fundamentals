@@ -145,7 +145,7 @@ de banco de dados, frameworks, infraestrutura e arquitetura serão aprofundadas 
 | 1067      | Números Ímpares          | `while`, contador e operador módulo (`%`)      | ✅     |
 | 1070      | Seis Números Ímpares     | Repetição e geração de sequência               | ✅     |
 | 1114      | Senha Fixa               | `while` e condição de parada                   | ✅     |
-| 1117      | Validação de Nota        | `while` com validação de entrada               | ⬜     |
+| 1117      | Validação de Nota        | `while` com validação de entrada               | ✅     |
 | 1113      | Ascendente e Descendente | Controle de repetição e múltiplas condições    | ⬜     |
 | 1131      | Grenais                  | Contadores, acumuladores e múltiplas condições | ⬜     |
 
