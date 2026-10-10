@@ -22,7 +22,7 @@ public class ValidacaoDeNota {
             }
         }
         double media = soma / 2;
-        System.out.println("media = " + media);
+        System.out.printf(Locale.US, "media = %.2f%n", media);
         scanner.close();
     }
 }
