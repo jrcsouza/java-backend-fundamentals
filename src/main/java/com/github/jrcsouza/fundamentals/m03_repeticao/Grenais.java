@@ -38,7 +38,7 @@ public class Grenais {
         } else if (vitoriaInter < vitoriaGremio) {
             System.out.println("Gremio venceu mais");
         } else {
-            System.out.println("Não houve vencedor");
+            System.out.println("Nao houve vencedor");
         }
         scanner.close();
     }
