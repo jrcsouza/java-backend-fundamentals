@@ -23,7 +23,7 @@ public class MultiplosDe13 {
 
         for (int i = menor; i <= maior; i++) {
             if (i % 13 != 0) {
-                soma = soma + i;
+                soma += i;
             }
         }
 

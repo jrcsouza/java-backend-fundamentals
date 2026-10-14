@@ -157,7 +157,7 @@ de banco de dados, frameworks, infraestrutura e arquitetura serão aprofundadas 
 | 1080      | Maior e Posição    | Busca e atualização de variáveis    | ✅     |
 | 1094      | Experiências       | Contadores e processamento de dados | ✅     |
 | 1132      | Múltiplos de 13    | Repetição e filtragem de valores    | ✅     |
-| 1144      | Sequência Lógica   | Laços e geração de padrões          | ⬜     |
+| 1144      | Sequência Lógica   | Laços e geração de padrões          | ✅     |
 | 1145      | Sequência Lógica 2 | Laços aninhados e controle de saída | ⬜     |
 
 ### 🟣 `do-while` — Repetição com Execução Garantida
