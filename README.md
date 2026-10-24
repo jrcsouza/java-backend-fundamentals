@@ -174,8 +174,8 @@ de banco de dados, frameworks, infraestrutura e arquitetura serão aprofundadas 
 
 | Exercício | Nome             | Conceito Praticado                         | Status |
 |-----------|------------------|--------------------------------------------|--------|
-| 1150      | Ultrapassando Z  | `while`, acumulador e condição de parada   | ⬜     |
-| 1153      | Fatorial Simples | Acumulador e repetição                     | ⬜     |
+| 1150      | Ultrapassando Z  | `while`, acumulador e condição de parada   | ✅     |
+| 1153      | Fatorial Simples | Acumulador e repetição                     | ✅     |
 | 1165      | Número Primo     | Repetição e análise de múltiplas condições | ⬜     |
 
 ### 🎮 Desafios Práticos de Terminal
