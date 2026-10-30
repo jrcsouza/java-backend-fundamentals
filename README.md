@@ -107,6 +107,9 @@ de banco de dados, frameworks, infraestrutura e arquitetura serão aprofundadas 
 | 1020      | Idade em Dias               | Decomposição de Valores         | ✅     |
 | 1021      | Notas e Moedas              | Ponto Flutuante e Módulo (`%`)  | ✅     |
 
+> **Revisão complementar (sem novos exercícios):** casting, divisão inteira e leitura de textos com `Scanner` (`next()`
+> e `nextLine()`).
+
 ---
 
 ## 🚦 Módulo 02 — Estruturas Condicionais
@@ -158,25 +161,21 @@ de banco de dados, frameworks, infraestrutura e arquitetura serão aprofundadas 
 | 1094      | Experiências       | Contadores e processamento de dados | ✅     |
 | 1132      | Múltiplos de 13    | Repetição e filtragem de valores    | ✅     |
 | 1144      | Sequência Lógica   | Laços e geração de padrões          | ✅     |
-| 1145      | Sequência Lógica 2 | Laços aninhados e controle de saída | ✅     |
+| 1145      | Sequência Lógica 2 | `for`, `%` e quebras de linha       | ✅     |
 
 ### 🟣 `do-while` — Repetição com Execução Garantida
 
 > O `do-while` executa o bloco antes de verificar a condição. Será utilizado principalmente em menus,
 > confirmações e situações em que o programa precisa executar a operação pelo menos uma vez.
 
-| Desafio | Nome                    | Conceito Praticado                    | Status |
-|---------|-------------------------|---------------------------------------|--------|
-| 01      | Menu com `do-while`     | Execução garantida e controle de menu | ⬜     |
-| 02      | Confirmação de Operação | `do-while` + validação                | ⬜     |
-
-### 🔵 Controle de Fluxo e Raciocínio
-
-| Exercício | Nome             | Conceito Praticado                         | Status |
-|-----------|------------------|--------------------------------------------|--------|
-| 1150      | Ultrapassando Z  | `while`, acumulador e condição de parada   | ✅     |
-| 1153      | Fatorial Simples | Acumulador e repetição                     | ✅     |
-| 1165      | Número Primo     | Repetição e análise de múltiplas condições | ⬜     |
+| Exercício | Nome                | Conceito Praticado                                       | Status |
+|-----------|---------------------|----------------------------------------------------------|--------|
+| 1134      | Tipo de Combustível | `do-while`, códigos, contadores e condição de parada     | ⬜     |
+| 1115      | Quadrante           | `do-while`, leitura de pares e sentinela                 | ⬜     |
+| 1154      | Idades              | `do-while`, sentinela, acumulador e média                | ⬜     |
+| 1150      | Ultrapassando Z     | `do-while` na validação; acumulador e parada com `while` | ✅     |
+| 1153      | Fatorial Simples    | `do-while`, acumulador de multiplicação e decremento     | ✅     |
+| 1165      | Número Primo        | `do-while` nos casos de teste e análise de divisores     | ⬜     |
 
 ### 🎮 Desafios Práticos de Terminal
 
@@ -187,6 +186,9 @@ de banco de dados, frameworks, infraestrutura e arquitetura serão aprofundadas 
 | 03      | Cadastro Temporário            | Repetição + validação + contadores + acumuladores             | ⬜     |
 | 04      | Menu com Confirmação de Saída  | `do-while` + repetição até o usuário confirmar o encerramento | ⬜     |
 
+> **Revisão nos desafios:** praticar flags, `break` e `continue` quando adequados, observando como cada recurso altera o
+> fluxo da repetição.
+
 ---
 
 ## 📦 Módulo 04 — Vetores e Matrizes
@@ -195,6 +197,8 @@ de banco de dados, frameworks, infraestrutura e arquitetura serão aprofundadas 
 
 > Introduzir estruturas de dados estáticas para armazenar, acessar, pesquisar, atualizar e processar conjuntos
 > de valores utilizando vetores e matrizes.
+
+> **Pontos de revisão:** índices a partir de zero, atributo `length`, `for-each`, laços aninhados e testes de mesa.
 
 ### 🟢 Vetores — Fundamentos
 
