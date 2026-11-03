@@ -171,11 +171,11 @@ de banco de dados, frameworks, infraestrutura e arquitetura serão aprofundadas 
 | Exercício | Nome                | Conceito Praticado                                       | Status |
 |-----------|---------------------|----------------------------------------------------------|--------|
 | 1134      | Tipo de Combustível | `do-while`, códigos, contadores e condição de parada     | ✅     |
-| 1115      | Quadrante           | `do-while`, leitura de pares e sentinela                 | ⬜     |
+| 1115      | Quadrante           | `do-while`, leitura de pares e sentinela                 | ✅     |
 | 1154      | Idades              | `do-while`, sentinela, acumulador e média                | ⬜     |
 | 1150      | Ultrapassando Z     | `do-while` na validação; acumulador e parada com `while` | ✅     |
 | 1153      | Fatorial Simples    | `do-while`, acumulador de multiplicação e decremento     | ✅     |
-| 1165      | Número Primo        | `do-while` nos casos de teste e análise de divisores     | ⬜     |
+| 1165      | Número Primo        | `do-while` nos casos de teste e análise de divisores     | ✅     |
 
 ### 🎮 Desafios Práticos de Terminal
 
