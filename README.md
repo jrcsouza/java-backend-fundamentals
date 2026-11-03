@@ -170,7 +170,7 @@ de banco de dados, frameworks, infraestrutura e arquitetura serão aprofundadas 
 
 | Exercício | Nome                | Conceito Praticado                                       | Status |
 |-----------|---------------------|----------------------------------------------------------|--------|
-| 1134      | Tipo de Combustível | `do-while`, códigos, contadores e condição de parada     | ⬜     |
+| 1134      | Tipo de Combustível | `do-while`, códigos, contadores e condição de parada     | ✅     |
 | 1115      | Quadrante           | `do-while`, leitura de pares e sentinela                 | ⬜     |
 | 1154      | Idades              | `do-while`, sentinela, acumulador e média                | ⬜     |
 | 1150      | Ultrapassando Z     | `do-while` na validação; acumulador e parada com `while` | ✅     |
